@@ -7,9 +7,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+Install:  
+1.npm i  
 
-How to use /n
-1.npm i
+How to use  
+1.npm start  
 
-condition:
-1. Min 0 if count < 0 show 0
+condition:  
+1. Min 0 if count < 0 show 0  

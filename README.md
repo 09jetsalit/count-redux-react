@@ -10,8 +10,8 @@ Currently, two official plugins are available:
 Install:  
 1.npm i  
 
-How to use  
+How to use:  
 1.npm start  
 
 condition:  
-1. Min 0 if count < 0 show 0  
+1.Min 0 if count < 0 show 0
